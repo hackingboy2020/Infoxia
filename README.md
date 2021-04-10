@@ -16,3 +16,5 @@ Esta herramienta/script es basicamente un recopilador de informacion simple.
 
 - python infoxia.py
 
+- si no funciona con python prueba a poner python2 infoxia.py
+
